@@ -9,6 +9,10 @@ module.exports = {
       slug: "front",
     },
     {
+      name: "Lionel",
+      slug: "lionel",
+    },
+    {
       name: "SSG",
       slug: "ssg",
     },
